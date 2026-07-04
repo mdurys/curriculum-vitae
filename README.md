@@ -7,27 +7,41 @@
 - GitHub: https://github.com/mdurys/
 - Personal site: https://michal.durys.pl
 
+## Profile
+
+> I'm a programmer and architect for whom creating quality software is both
+> a daily job and a lifelong passion. I have over 20 years of professional
+> experience across areas ranging from e-commerce and finance to social
+> platforms.
+
 ## Skills
 
 ### Programming Languages
 
-`PHP ●●●●●` `JavaScript ●●●○○` `Python ●●○○○`  `bash ●●○○○` `Golang ●○○○○` `Perl ●○○○○` `C, C++ ●○○○○`
+`PHP ●●●●●` `JavaScript ●●●○○` `Python ●●○○○`  `bash ●●○○○` `Golang ●○○○○`
+`Perl ●○○○○` `C, C++ ●○○○○`
 
 ### Frameworks / Middleware
 
-`Symfony ●●●●●` `Pimcore ●●●●●` `PHPUnit ●●●●●` `Codeception ●●●●●` `Doctrine ●●●●●` `Laravel ●●●○○` `PHPSpec ●●●○○` `Phalcon ●●○○○` `Slim ●○○○○`
+`Symfony ●●●●●` `Pimcore ●●●●●` `PHPUnit ●●●●●` `Codeception ●●●●●`
+`Doctrine ●●●●●` `Laravel ●●●○○` `PHPSpec ●●●○○` `Phalcon ●●○○○` `Slim ●○○○○`
 
 ### Databases
 
-`MySQL / MariaDB ●●●●●` `PostgreSQL ●●●●●` `Redis / Valkey ●●●●○` `Elasticsearch / OpenSearch ●●●●○` `MS SQL ●●○○○` `SQLite ●●○○○` `Solr ●○○○○` `MongoDB ●○○○○`
+`MySQL / MariaDB ●●●●●` `PostgreSQL ●●●●●` `Redis / Valkey ●●●●○`
+`Elasticsearch / OpenSearch ●●●●○` `MS SQL ●●○○○` `SQLite ●●○○○`
+`Solr ●○○○○` `MongoDB ●○○○○`
 
 ### Tools
 
-`git ●●●●●` `PhpStorm ●●●●●` `SVN ●●●●○` `VS Code ●●●○○` `Sublime Text ●●●○○` `Mercurial ●●○○○` `Claude Code ●●○○○`
+`git ●●●●●` `PhpStorm ●●●●●` `SVN ●●●●○` `VS Code ●●●○○` `Sublime Text ●●●○○`
+`Mercurial ●●○○○` `Claude Code ●●○○○`
 
 ### DevOps
 
-`Docker ●●●●○` `Kubernetes ●●●○○` `Gitlab ●●●○○` `Helm ●●●○○` `Lens ●●●○○` `Gitea ●●●○○` `Microsoft Azure ●●○○○` `AWS ●○○○○` `Google Cloud ●○○○○` `Oracle Cloud ●○○○○` `OVH ●○○○○` `Ansible ●●○○○`
+`Docker ●●●●○` `Kubernetes ●●●○○` `Gitlab ●●●○○` `Helm ●●●○○` `Lens ●●●○○`
+`Gitea ●●●○○` `Microsoft Azure ●●○○○` `AWS ●○○○○` `Google Cloud ●○○○○`
+`Oracle Cloud ●○○○○` `OVH ●○○○○` `Ansible ●●○○○`
 
 ## Work Experience
 
