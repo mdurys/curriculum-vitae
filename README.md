@@ -32,6 +32,10 @@
 `Elasticsearch / OpenSearch ●●●●○` `MS SQL ●●○○○` `SQLite ●●○○○`
 `Solr ●○○○○` `MongoDB ●○○○○`
 
+### Others
+
+`RabbitMQ ●●●●○`
+
 ### Tools
 
 `git ●●●●●` `PhpStorm ●●●●●` `SVN ●●●●○` `VS Code ●●●○○` `Sublime Text ●●●○○`
@@ -45,7 +49,7 @@
 
 ## Work Experience
 
-| Years          | Company                                  | Position                             |
+| Years          | Company                                  | Position                              |
 | -------------- | ---------------------------------------- | ------------------------------------- |
 | 2021 – present | Divante S.A.                             | Technical Leader / Solution Architect |
 | 2018 – 2021    | GOG.com Sp. z o. o.                      | Senior Software Engineer              |
